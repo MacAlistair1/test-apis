@@ -50,11 +50,67 @@
     },
     {
       "id": 3,
-      "client": "Sarthak Business 2",
-      "projectType": "Biomedical Equipment supplier",
+      "client": "clickEAT Nepal",
+      "projectType": "Food Delivery ",
       "role": "Branding Identity",
-      "location": "Bharatpur, Nepal",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eget tellus sit natoque augue amet mauris. Arcu faucibus elementum id aliquam morbi sed metus lectus. Tempus, cras est blandit ultrices risus. Ut tincidunt placerat mauris, facilisi auctor fames. Urna molestie tortor lacus urna, leo quam sed.",
+      "location": "Kathmandu, Nepal",
+      "description": "clickËAT is the first of its kind app in the Nepalese market. With our App, you can browse through the menu of your favourite eatery and order them from your smartphone.",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://clickeatnpl.com/frontend/gallery/0.jpeg"
+        },
+        {
+          "id": 2,
+          "image": "https://clickeatnpl.com/frontend/gallery/img03.png"
+        },
+        {
+          "id": 3,
+          "image": "https://clickeatnpl.com/frontend/gallery/img04.png"
+        },
+        {
+          "id": 4,
+          "image": "https://clickeatnpl.com/frontend/gallery/img05.png"
+        }
+      ],
+      "prev": 2,
+      "next": 4
+    },
+    {
+      "id": 4,
+      "client": "EatWell",
+      "projectType": "Food Supplier ",
+      "role": "Branding Identity",
+      "location": "Chitwan, Nepal",
+      "description": "With our App, you can browse through the menu of your favourite eatery and order them from your smartphone.",
+      "images": [
+        {
+          "id": 1,
+          "image": "https://clickeatnpl.com/frontend/gallery/0.jpeg"
+        },
+        {
+          "id": 2,
+          "image": "https://clickeatnpl.com/frontend/gallery/img03.png"
+        },
+        {
+          "id": 3,
+          "image": "https://clickeatnpl.com/frontend/gallery/img04.png"
+        },
+        {
+          "id": 4,
+          "image": "https://clickeatnpl.com/frontend/gallery/img05.png"
+        }
+      ],
+      "prev": 3,
+      "next": 5
+    },
+    {
+      "id": 4,
+      "client": "Cinemaghar",
+      "projectType": "OTT App ",
+      "role": "Branding Identity, UI/UX",
+      "location": "Kathmandu, Nepal",
+      "description": "With our App, you can browse through the menu of your favourite eatery and order them from your smartphone.",
       "images": [
         {
           "id": 1,
@@ -69,8 +125,8 @@
           "image": "https://raw.githubusercontent.com/MacAlistair1/test-apis/master/images/third.png"
         }
       ],
-      "prev": 2,
-      "next": 4
+      "prev": 4,
+      "next": null
     }
   ]
 }
